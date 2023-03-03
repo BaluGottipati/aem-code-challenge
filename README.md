@@ -1,4 +1,3 @@
-# aem-code-challenge
 # Abercrombie AEM Developer Skill Assessment
 
 ## Pre Steps (**Your Assessment will not considered or reviewed if below steps are not followed**)
